@@ -1,0 +1,21 @@
+.welcome-card .p-card-title {
+    text-align: center;
+}
+
+.welcome-card {
+    position: relative;
+    top: 15%;
+    border-radius: 15px;
+}
+
+.quiz-generator {
+    text-align: center;
+}
+
+.amount {
+    margin-top: 25px;
+}
+
+.wel-div{
+  background: #61dafb;
+}
